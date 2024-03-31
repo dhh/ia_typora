@@ -17,9 +17,9 @@
   --h2-fontsize: 20px; /* 1,375 rem = 22px */
   --h3-fontsize: 20px;  /* 1,25  rem = 20px */
   --h4-fontsize: 20px; /* 1,125 rem = 18px */
-  --line-height: 1.6;
+  --line-height: 1.8;
   --main-content-margin: 0 auto;
-  --main-content-max-width: 100ch;
+  --main-content-max-width: 85ch;
   --monospace-font-size: 20px;
   --monospace-font: iAWriterMonoS-Regular, monospace;
   --monospace-line-height: 1.6;
@@ -216,7 +216,7 @@ hr {
 }
 
 p {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 /**
